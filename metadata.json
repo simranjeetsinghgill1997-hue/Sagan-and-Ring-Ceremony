@@ -1,0 +1,8 @@
+{
+  "name": "Sagan Ceremony Invite of Simranjeet \u0026 Ravneet ",
+  "description": "A luxury mobile Sagan Ceremony invitation website for Simranjeet Singh Gill \u0026 Ravneet Kaur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
